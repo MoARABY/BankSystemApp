@@ -1,0 +1,16 @@
+E:\Projects\ooPFinalProject\bin\Debug\net5.0\ooPFinalProject.exe
+E:\Projects\ooPFinalProject\bin\Debug\net5.0\ooPFinalProject.deps.json
+E:\Projects\ooPFinalProject\bin\Debug\net5.0\ooPFinalProject.runtimeconfig.json
+E:\Projects\ooPFinalProject\bin\Debug\net5.0\ooPFinalProject.runtimeconfig.dev.json
+E:\Projects\ooPFinalProject\bin\Debug\net5.0\ooPFinalProject.dll
+E:\Projects\ooPFinalProject\bin\Debug\net5.0\ref\ooPFinalProject.dll
+E:\Projects\ooPFinalProject\bin\Debug\net5.0\ooPFinalProject.pdb
+E:\Projects\ooPFinalProject\obj\Debug\net5.0\ooPFinalProject.csproj.AssemblyReference.cache
+E:\Projects\ooPFinalProject\obj\Debug\net5.0\ooPFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ooPFinalProject\obj\Debug\net5.0\ooPFinalProject.AssemblyInfoInputs.cache
+E:\Projects\ooPFinalProject\obj\Debug\net5.0\ooPFinalProject.AssemblyInfo.cs
+E:\Projects\ooPFinalProject\obj\Debug\net5.0\ooPFinalProject.csproj.CoreCompileInputs.cache
+E:\Projects\ooPFinalProject\obj\Debug\net5.0\ooPFinalProject.dll
+E:\Projects\ooPFinalProject\obj\Debug\net5.0\ref\ooPFinalProject.dll
+E:\Projects\ooPFinalProject\obj\Debug\net5.0\ooPFinalProject.pdb
+E:\Projects\ooPFinalProject\obj\Debug\net5.0\ooPFinalProject.genruntimeconfig.cache
